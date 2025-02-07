@@ -1,0 +1,19 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: llm-chatbot
+spec:
+  replicas: 3  # ⬅️ Run 3 copies of the chatbot for scaling
+  selector:
+    matchLabels:
+      app: chatbot
+  template:
+    metadata:
+      labels:
+        app: chatbot
+    spec:
+      containers:
+      - name: chatbot-container
+        image: llm-chatbot:latest
+        ports:
+        - containerPort: 8001
