@@ -1,0 +1,15 @@
+{"time":"2025-02-02T21:05:54.0079106+02:00","level":"INFO","msg":"stream: starting","core version":"0.19.5","symlink path":"D:\\Geo LLM\\wandb\\run-20250202_210546-tk74snad\\logs\\debug-core.log"}
+{"time":"2025-02-02T21:05:58.3754947+02:00","level":"INFO","msg":"created new stream","id":"tk74snad"}
+{"time":"2025-02-02T21:05:58.3754947+02:00","level":"INFO","msg":"handler: started","stream_id":"tk74snad"}
+{"time":"2025-02-02T21:05:58.3772792+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"tk74snad"}
+{"time":"2025-02-02T21:05:58.3779592+02:00","level":"INFO","msg":"sender: started","stream_id":"tk74snad"}
+{"time":"2025-02-02T21:05:58.3784685+02:00","level":"INFO","msg":"stream: started","id":"tk74snad"}
+{"time":"2025-02-02T21:05:58.8071668+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-02T21:05:59.7759711+02:00","level":"INFO","msg":"stream: closing","id":"tk74snad"}
+{"time":"2025-02-02T21:05:59.7759711+02:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-02-02T21:05:59.7765245+02:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-02-02T21:06:00.4572596+02:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-02-02T21:06:00.6884917+02:00","level":"INFO","msg":"handler: closed","stream_id":"tk74snad"}
+{"time":"2025-02-02T21:06:00.6884917+02:00","level":"INFO","msg":"writer: Close: closed","stream_id":"tk74snad"}
+{"time":"2025-02-02T21:06:00.6884917+02:00","level":"INFO","msg":"sender: closed","stream_id":"tk74snad"}
+{"time":"2025-02-02T21:06:00.6884917+02:00","level":"INFO","msg":"stream: closed","id":"tk74snad"}

@@ -1,0 +1,38 @@
+{
+  "os": "Windows-11-10.0.26100-SP0",
+  "python": "CPython 3.13.1",
+  "startedAt": "2025-02-02T19:05:53.967441Z",
+  "program": "D:\\Geo LLM\\src\\train_model.py",
+  "codePath": "src\\train_model.py",
+  "email": "mdrabiulhasanrabiul020@gmail.com",
+  "root": "D:\\Geo LLM",
+  "host": "Rabiul",
+  "executable": "C:\\Python313\\python.exe",
+  "codePathLocal": "src\\train_model.py",
+  "cpu_count": 4,
+  "cpu_count_logical": 8,
+  "gpu": "NVIDIA GeForce MX250",
+  "gpu_count": 1,
+  "disk": {
+    "/": {
+      "total": "255147896832",
+      "used": "90562236416"
+    }
+  },
+  "memory": {
+    "total": "8433606656"
+  },
+  "cpu": {
+    "count": 4,
+    "countLogical": 8
+  },
+  "gpu_nvidia": [
+    {
+      "name": "NVIDIA GeForce MX250",
+      "memoryTotal": "2147483648",
+      "cudaCores": 384,
+      "architecture": "Pascal"
+    }
+  ],
+  "cudaVersion": "11.6"
+}
