@@ -8,7 +8,7 @@
 [![LLM](https://img.shields.io/badge/LLM-✅-green)](https://huggingface.co/)
 
 ##  Overview
-
+![System Design](distributed_system.png)
 ### **What is this project?**
 This project builds a **Geo-Distributed LLM Serving & Fine-Tuning Platform**, where a **large language model (LLM)** is distributed across multiple geographically separated nodes. Each node **stores and fine-tunes part of the model**, while ensuring **efficient inference, training synchronization, and scalability** using **CRDTs (Conflict-Free Replicated Data Types)**.
 
